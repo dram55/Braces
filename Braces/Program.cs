@@ -35,7 +35,6 @@ namespace Braces
                 if (workingBraces.Count == 0)
                 {
                     workingBraces.Push(braces[i]);
-                    continue;
                 }
 
                 else
